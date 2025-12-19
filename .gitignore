@@ -59,8 +59,6 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
-.env.test
 
 # parcel-bundler cache files
 .cache
@@ -69,4 +67,4 @@ typings/
 .DS_Store
 
 # VSCode
-.vscode/
+config.bat
